@@ -2,7 +2,7 @@
 const Header = () => {
     return (
         <div>
-            Hello
+            University of the Philippines Joke Bot
         </div>
     );
 };
